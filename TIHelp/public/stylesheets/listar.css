@@ -1,0 +1,19 @@
+/*Aqui está uma parte do css responsável pela estilização da nossa página;
+  como, alinhamento de conteúdo, cor de fundo, cor de tag de título e etc..
+*/
+
+.listar { 
+    background-color:whitesmoke;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px -1px rgb(158, 156, 156);
+    justify-content: center;                                                                                        
+    height: 500px;
+    margin: 20px 250px 20px 250px;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+}
+
+

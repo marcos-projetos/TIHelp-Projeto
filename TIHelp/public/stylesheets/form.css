@@ -1,0 +1,29 @@
+/*Aqui está uma parte do css responsável pela estilização da nossa página;
+  como, alinhamento de conteúdo, cor de fundo, cor de tag de título, imagem e etc...*/
+.form {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px -1px rgb(158, 156, 156);
+    justify-content: center;
+    height: 500px;
+    margin: 20px 350px 20px 350px;
+}
+
+img {
+    width: 200px;
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+input {
+    font-size: 20px;
+}
+input[type=number]::-webkit-inner-spin-button { 
+  width: 30px;
+  height: 30px;
+  margin: 19px;
+  padding: 5px;
+  transform: rotate(90deg);
+  filter: sepia(100%) hue-rotate(90deg);
+  cursor: pointer;
+}
